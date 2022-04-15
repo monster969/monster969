@@ -1,2 +1,2 @@
-new form1()show();
+new form1().show();
 //make a new form!
